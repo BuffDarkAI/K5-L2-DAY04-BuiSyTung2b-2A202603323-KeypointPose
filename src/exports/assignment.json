@@ -1,0 +1,43 @@
+{
+ "mssv": "2A202603323",
+ "ten": "BuiSyTung2b",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "buisytungk25cntt@gmail.com",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000225138.jpg",
+  "000000308257.jpg",
+  "000000343057.jpg",
+  "000000433787.jpg",
+  "000000525227.jpg",
+  "000000188804.jpg",
+  "000000461389.jpg",
+  "000000516902.jpg",
+  "000000359340.jpg",
+  "000000515309.jpg",
+  "000000007281.jpg",
+  "000000130816.jpg"
+ ],
+ "faces": [
+  "face_125051.jpg",
+  "face_300399.jpg",
+  "face_559185.jpg",
+  "face_145621.jpg",
+  "face_416730.jpg",
+  "face_380754.jpg",
+  "face_294580.jpg",
+  "face_490361.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 17,
+   "job_id": 13,
+   "task_name": "persons-BuiSyTung2b"
+  },
+  "faces": {
+   "task_id": 18,
+   "job_id": 14,
+   "task_name": "faces-BuiSyTung2b"
+  }
+ }
+}
